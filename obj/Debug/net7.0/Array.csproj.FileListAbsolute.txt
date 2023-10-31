@@ -1,0 +1,14 @@
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\Array\bin\Debug\net7.0\Array.exe
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\Array\bin\Debug\net7.0\Array.deps.json
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\Array\bin\Debug\net7.0\Array.runtimeconfig.json
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\Array\bin\Debug\net7.0\Array.dll
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\Array\bin\Debug\net7.0\Array.pdb
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\Array\obj\Debug\net7.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\Array\obj\Debug\net7.0\Array.AssemblyInfoInputs.cache
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\Array\obj\Debug\net7.0\Array.AssemblyInfo.cs
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\Array\obj\Debug\net7.0\Array.csproj.CoreCompileInputs.cache
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\Array\obj\Debug\net7.0\Array.dll
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\Array\obj\Debug\net7.0\refint\Array.dll
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\Array\obj\Debug\net7.0\Array.pdb
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\Array\obj\Debug\net7.0\Array.genruntimeconfig.cache
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\Array\obj\Debug\net7.0\ref\Array.dll
